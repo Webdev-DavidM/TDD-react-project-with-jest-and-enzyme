@@ -7,5 +7,7 @@ I am currently learning jest and enzyme to test my React applications. In this p
 
 i) Prop-types
 <br />
-ii) Behaviour- what the user sees
+ii) Behaviour- what the user sees <br />
+iii) State <br />
+iv) Axios API requests <br />
 
