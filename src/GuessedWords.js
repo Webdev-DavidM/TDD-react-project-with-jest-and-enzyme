@@ -34,7 +34,7 @@ export default function GuessedWords(props) {
 }
 
 GuessedWords.propTypes = {
-  GuessedWords: PropTypes.arrayOf(
+  guessedWords: PropTypes.arrayOf(
     PropTypes.shape({
       guessedWord: PropTypes.string.isRequired,
       letterMatchCount: PropTypes.number.isRequired,
